@@ -1,0 +1,44 @@
+.nav-link {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+.foth {
+    font-weight: 700;
+}
+
+.prim {
+    background-image: url(../images/primbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.intense {
+    background-image: url(../images/icbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+.dental {
+    background-image: url(../images/dental1.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.optical {
+    background-image: url(../images/reading-4330761_1280.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.derma {
+    background-image: url(../images/skinbg.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+.carocap {
+    background-color: rgba(255, 255, 255, 0.5);
+}
